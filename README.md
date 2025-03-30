@@ -12,4 +12,4 @@ Ever found yourself drowning in **too many open tabs** while working or browsing
 Built using **Chrome Manifest V3**, this extension leverages the **Chrome Tabs API** and **Chrome Storage API** to deliver a seamless and efficient browsing experience. Whether you're a **developer, researcher, or just a heavy browser user**, Smart Tab Organizer helps you stay **organized, focused, and productive**. 🚀🔥
 
 ### 🔹 Minimal & Clean UI  
-![Popup UI](https://github.com/smart-tab-organizer/blob/main/popup-image.jpg)
+![Popup UI]([https://github.com/smart-tab-organizer/blob/main/popup-image.jpg](https://github.com/aiswaryams20/smart-tab-organizer/blob/main/popup-image.jpg))
