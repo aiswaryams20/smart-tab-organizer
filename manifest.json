@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Smart Tab Organizer",
+    "version": "1.0",
+    "description": "Automatically groups similar tabs, cleans up unnecessary ones, and saves tab sessions.",
+    "permissions": [
+        "tabs",
+        "tabGroups",
+        "storage"
+    ],
+    "host_permissions": [
+        "http://*/",
+        "https://*/"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
